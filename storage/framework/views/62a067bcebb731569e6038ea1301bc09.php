@@ -1,0 +1,3 @@
+<?php echo $__env->make('admin.partials.text-input',['name'=>'publishable_key','label'=>__lang('publishable-key')], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->make('admin.partials.text-input',['name'=>'secret_key','label'=>__lang('secret-key')], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH C:\xampp-8.1\htdocs\app\public\gateways/payment/stripe/views/setup.blade.php ENDPATH**/ ?>

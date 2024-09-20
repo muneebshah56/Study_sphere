@@ -1,0 +1,2 @@
+<?php echo $__env->make('admin.partials.rte',['name'=>'text','label'=>__('default.instructions')], \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH C:\xampp-8.1\htdocs\app\public\gateways/payment/bank/views/setup.blade.php ENDPATH**/ ?>
